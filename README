@@ -1,0 +1,27 @@
+The data avaible here are the result of calculation of phenomenological model
+of beta-delayed neutron emission probability (Pn). The full description of
+the model is published in the following article:
+
+K. Miernik Phys. Rev. C (2013)
+
+File 'predictions_exp.txt' contains calculations based on the experimental mass
+tables NUBASE2012 by:
+G. Audi et al., Chin. Phys. C 36 (2012) 1157
+Notice that some of the masses are extrapolated.
+
+File 'predictions_hfb.txt' contains calculations based on theoretical mass
+model HFB-21 by:
+S. Goriely, N. Chamel and J.M. Pearson
+Phys. Rev. C82, 035804 (2010)
+http://www.astro.ulb.ac.be/pmwiki/Brusslib/Hfb17
+
+Files 'pred_exp_mass_*.svg' present graphs of predictions based on experimental
+masses.
+
+Files 'pred_hfb_*.svg' present graphs of predictions based on HFB-21 mass model.
+
+If used in a scintific work please cite:
+K. Miernik Phys. Rev. C (2013)
+and the selected mass model (G. Audi et al., or S. Goriely et al.).
+
+For licencing information see COPYING.
