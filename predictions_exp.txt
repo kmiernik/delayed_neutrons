@@ -1,5 +1,5 @@
 # K. Miernik
-# Phys. Rev. C (2013)
+# Phys. Rev. C  88, 041301(R) (2013)
 #
 # Pn values predictions based on NUBASE2012 experimental mass tables
 # by G. Audi et al., Chin. Phys. C 36 (2012) 1157

@@ -1,5 +1,5 @@
 # K. Miernik
-# Phys. Rev. C (2013)
+# Phys. Rev. C 88, 041301(R) (2013) 
 #
 # Pn values predictions based on HFB-21 mass model
 # http://www.astro.ulb.ac.be/pmwiki/Brusslib/Hfb17
